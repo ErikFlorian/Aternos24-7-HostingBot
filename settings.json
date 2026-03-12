@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Peoplesanarchy.aternos.me:53376",
+    "ip": "Peoplesanarchy.aternos.me",
     "port": 53376,
     "version": "",
     "try-creative": false
