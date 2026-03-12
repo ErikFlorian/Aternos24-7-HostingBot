@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
-    "password": "",
+    "username": "NEZABIJET-AFFKBOT"
+    "password": "idikidik",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "Peoplesanarchy.aternos.me:53376",
+    "port": 53376,
     "version": "",
     "try-creative": false
   },
